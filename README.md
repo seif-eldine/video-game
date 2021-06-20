@@ -1,6 +1,17 @@
 # VideoGame
 
+VideoGame is a project built on Angular. 
+
+- it's a project that displays some skills of controling the API requests and responses using `Interceptors`
+
+- displaying data in a neat UI design
+- sharing data across the application using services
+- sharing data using direct relation from parent to child components using `Inputs` 
+- accessing items details using queryParams, and also nice implementation of navigation and routing.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
+
+feel free to clone the repo and play with it on your *Machine* don't forget to run `npm install` to install all the packages needed.
 
 ## Development server
 
